@@ -1,0 +1,68 @@
+[33mcommit 0035b21610d103f2153abfb45882926fa973d09c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 03:00:38 2023 +0530
+
+    edit superspicycurry.html & add krabby_patty.html
+    
+    >modified superspicycurry.html to change heading for instructions
+    earlier the heading was "assembling the sandvich" which was for tf2 sandvich and now it is corresponding the recipe of curry
+    >added krabby_patty.html
+    added krabby patty images, description, ingredients and steps
+
+[33mcommit 486c90e29db3c8c1c3c588598213b1258867c9ed[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 02:28:56 2023 +0530
+
+    Add superspicycurry.html and Edit index.html
+    
+    >Added images, description, ingredients and steps for Super Spicy Curry from Super Smash Bros
+    
+    >Modified index.html to link superspicycurry.html
+    >Modified index.html to add all links in an ordered list
+
+[33mcommit 62bd6c0ccc4f9dbabd5740c01a9a289c7f200657[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 02:00:30 2023 +0530
+
+    edit tf2-sandwich.html to remove unnecessary space
+    
+    removed the space after Congratulations line by removing <br> tag
+    
+    else there was an awkwardly large space between congratulations and serving line
+
+[33mcommit 24772c707408b46481540f0b707ef0f92ece5c60[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 01:57:11 2023 +0530
+
+    Modify tf2-sandwich.html to add recipe instruction
+    
+    Added Images, Description, Ingredients, Steps for team fortress 2 sandwich
+
+[33mcommit 7356d026c077b15a0f8d88e76ce2101bd6e433ce[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 01:29:09 2023 +0530
+
+    Add tf2-sandwich.html and Modify index.html
+    
+    >Added boilerplate in tf2-sandwich.html
+    >added a heading for recipe
+    
+    >Modified index.html to add link to tf2-sandwich
+
+[33mcommit 0500ef7dd422ccb6df3efc55bb26c2c747eb6955[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 00:51:43 2023 +0530
+
+    Add index.html for homepage with heading
+
+[33mcommit 88bcf09c09a2dc15e3c0a9fde15d035886546d73[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nia <niauk03@gmail.com>
+Date:   Fri Sep 22 00:42:01 2023 +0530
+
+    Edit README.md
+
+[33mcommit eb3152361a225db6df917506e5bafecec6c3762e[m
+Author: Nia UK <122143122+spectrebloc@users.noreply.github.com>
+Date:   Fri Sep 22 00:14:44 2023 +0530
+
+    Initial commit
